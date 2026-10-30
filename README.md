@@ -1,5 +1,5 @@
 ### Business-Sales-Report
-###### Retail Sales Analysis Report highlights
+###### From Sales Data to Strategic Business Decisions
 
 #### About This Project
 ##### DATA SUMMARY:
