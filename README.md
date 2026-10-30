@@ -49,10 +49,10 @@ The Retail Sales Analysis Report highlights the overall performance of the busin
 * The Southern Region should offer discounts to attract more customers and improve sales performance.
 * Eve should be transferred to the Southern Region to help attract more customers and increase sales.
 
-###### VISUALIZATION:
+##### VISUALIZATION:
 <img width="3534" height="2612" alt="image" src="https://github.com/user-attachments/assets/78817a82-f65c-45cb-b9f5-c14cb4c00b54" />
 
-##### APPROACH:
+#### APPROACH:
 * For this analysis, I examined the retail sales data to evaluate the overall performance of the business. I analyzed key metrics such as revenue, profit, profit percentage, and quantity sold, while also exploring performance across regions, product categories, sales representatives, customers, sales channels, and payment methods.
 * I used the dashboard's visualizations, including KPI cards, bar charts, and donut charts, to identify trends, compare performance, and uncover meaningful insights. My focus was on identifying the strongest and weakest performing areas of the business, assessing profitability, evaluating sales representative performance, and understanding customer purchasing patterns.
 * By analyzing these key business metrics, I was able to draw data-driven conclusions and provide recommendations aimed at improving sales performance, profitability, and overall business growth.
