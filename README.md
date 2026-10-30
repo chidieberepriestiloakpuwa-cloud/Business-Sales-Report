@@ -1,8 +1,8 @@
 ### Business-Sales-Report
-#### Retail Sales Analysis Report highlights
+##### Retail Sales Analysis Report highlights
 
-### About this project
-#### DATA SUMMARY:
+#### About this project
+##### DATA SUMMARY:
 The Retail Sales Analysis Report highlights the overall performance of the business across sales, profit, regions, products, sales representatives, customers, and payment methods. The business generated $70.33 million in revenue, $6.49 million in profit, and sold 25,355 units. Sales performance remained relatively stable throughout the year, with strong contributions from the Northern region, the Furniture product category, and top-performing sales representatives.
 
 #### OBJECTIVES: 
