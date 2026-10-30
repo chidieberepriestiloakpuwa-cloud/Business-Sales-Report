@@ -54,19 +54,13 @@ The Retail Sales Analysis Report highlights the overall performance of the busin
 
 #### APPROACH:
 * For this analysis, I examined the retail sales data to evaluate the overall performance of the business. I analyzed key metrics such as revenue, profit, profit percentage, and quantity sold, while also exploring performance across regions, product categories, sales representatives, customers, sales channels, and payment methods.
-
 * I used the dashboard's visualizations, including KPI cards, bar charts, and donut charts, to identify trends, compare performance, and uncover meaningful insights. My focus was on identifying the strongest and weakest performing areas of the business, assessing profitability, evaluating sales representative performance, and understanding customer purchasing patterns.
-
 * By analyzing these key business metrics, I was able to draw data-driven conclusions and provide recommendations aimed at improving sales performance, profitability, and overall business growth.
 
 #### LIMITATIONS:
 * The dashboard presents aggregated results, making it difficult to identify the specific factors driving sales and profit performance.
 Customer analysis is limited to customer counts and sales channels; deeper insights into customer behavior and preferences are not available.
-
 * Product analysis focuses primarily on profit percentage and does not provide detailed information on product costs, pricing, or revenue contribution by category.
-
 * The dashboard captures performance within a single reporting period and does not provide historical comparisons to evaluate long-term growth trends.
-
 * Regional analysis highlights performance differences but does not explain the underlying causes of stronger or weaker sales across regions.
-
 * The report focuses on sales performance metrics and does not include operational, inventory, or supply chain data that may affect business outcomes.
