@@ -14,16 +14,16 @@ The Retail Sales Analysis Report highlights the overall performance of the busin
 * Review customer payment preferences to support business decisions.
 
 ##### KEY FINDINGS:
-#### Sales Performance.
+##### Sales Performance.
 * Total Revenue: $70,329,940.71
 * Total Profit: $6,487,847.07
 * Total Quantity Sold: 25,355 units
 
-#### Regional Performance:
+##### Regional Performance:
 * North Region generated the highest sales (1,661,461).
 * South Region recorded the lowest sales (1,519,737).
 
-#### Product Category Performance.
+##### Product Category Performance.
 * Furniture achieved the highest profit percentage (37.90%).
 * Food generated the lowest profit percentage (32.68%).
 
